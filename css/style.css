@@ -2,3 +2,7 @@ h1{
     color: red;
     font-family: 'Courier New', Courier, monospace;
 }
+
+body{
+    background-image: url(/assets/bg-mobile.jpg);
+}
