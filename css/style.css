@@ -15,3 +15,21 @@ body{
 
     background: url(/assets/bg-mobile.jpg) no-repeat top center /cover;
 }
+
+#container{
+    width: 380px;
+    /*height: 712px;*/
+    border: 2px solid red;
+    margin: 0 auto;
+}
+
+#profile{
+    border: 2px solid blue;
+}
+
+#profile img{
+
+    width: 112px;
+    margin: 0 auto;
+    display: block;
+}
